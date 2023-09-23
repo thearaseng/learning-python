@@ -14,3 +14,6 @@ my_list = [1, 'two', 3]
 print(my_list)
 print(len(my_list))
 print(my_list[1])
+
+name = 'Devid'
+print(f"Hello {name}")
